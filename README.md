@@ -31,9 +31,9 @@ Estou entrando agora no mercado de trabalho e busco oportunidades onde eu possa 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedIn" 
+            title="Perfil do LinkedIn" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
         />
     </a>
 </p>
