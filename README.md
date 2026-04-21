@@ -3,14 +3,19 @@
 
 Sou um desenvolvedor em início de carreira, com 18 anos, focado em construir soluções modernas e eficientes. Atualmente, estou mergulhado em uma jornada de aprendizado intenso para me tornar um Desenvolvedor Fullstack, unindo a paixão pelo design de interfaces com a lógica de sistemas robustos.
 
-🚀 Sobre Mim
-🎓 Formação: Recentemente concluí o Ensino Médio e estou direcionando meus estudos para a área de tecnologia, com foco em Engenharia de Software e Ciência da Computação.
+###🚀 Sobre Mim
+<br>
+🎓 Formação: 
+Recentemente concluí o Ensino Médio e estou direcionando meus estudos para a área de tecnologia, com foco em Engenharia de Software e Ciência da Computação.
 
-💡 Momento Atual: Estou cursando uma especialização Fullstack para dominar tanto o Front-end quanto o Back-end, aprimorando minhas habilidades em arquitetura de dados e integração de APIs.
+###💡 Momento Atual: 
+Estou cursando uma especialização Fullstack para dominar tanto o Front-end quanto o Back-end, aprimorando minhas habilidades em arquitetura de dados e integração de APIs.
 
-💻 Ambiente de Trabalho: Desenvolvedor entusiasta de Linux (Ubuntu), priorizando produtividade e performance no desenvolvimento.
+###💻 Ambiente de Trabalho: 
+Desenvolvedor entusiasta de Linux (Ubuntu), priorizando produtividade e performance no desenvolvimento.
 
-🛠️ Tecnologias & Habilidades
+###🛠️ Tecnologias & Habilidades
+<br>
 Front-end: HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+).
 
 Frameworks & Mobile: Aprendizado contínuo em React e React Native.
@@ -19,7 +24,8 @@ Ferramentas: Git, GitHub, VS Code, Android Studio.
 
 Sistemas: Domínio em ambiente Linux e configurações de hardware.
 
-🎯 Objetivos
+###🎯 Objetivos
+<br>
 Estou entrando agora no mercado de trabalho e busco oportunidades onde eu possa contribuir com meu conhecimento técnico, aprender com desenvolvedores experientes e enfrentar desafios que exijam criatividade e resolução de problemas.
 
 <p align="left">
